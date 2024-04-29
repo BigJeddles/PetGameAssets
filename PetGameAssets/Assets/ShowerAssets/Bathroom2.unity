@@ -415,7 +415,7 @@ PrefabInstance:
     - target: {fileID: -7635826562936255635, guid: ce1d751f6e8c4ce4da0bfdeca02019de, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 99f709ee8367b47418071bb71b70fc52, type: 2}
+      objectReference: {fileID: 2100000, guid: 3fb37d6fc87aff24c8a457eb48acacdd, type: 2}
     - target: {fileID: 919132149155446097, guid: ce1d751f6e8c4ce4da0bfdeca02019de, type: 3}
       propertyPath: m_Name
       value: ProxyFrog
@@ -573,6 +573,18 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 4596bdf50a184214ea0d76549f65835c, type: 2}
+    - target: {fileID: -2021178655527167927, guid: 67e51e2101808cf4ba6da9ff2d22b5df, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.785
+      objectReference: {fileID: 0}
+    - target: {fileID: -2021178655527167927, guid: 67e51e2101808cf4ba6da9ff2d22b5df, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.258
+      objectReference: {fileID: 0}
+    - target: {fileID: -2021178655527167927, guid: 67e51e2101808cf4ba6da9ff2d22b5df, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.671
+      objectReference: {fileID: 0}
     - target: {fileID: -1601558683574945349, guid: 67e51e2101808cf4ba6da9ff2d22b5df, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
